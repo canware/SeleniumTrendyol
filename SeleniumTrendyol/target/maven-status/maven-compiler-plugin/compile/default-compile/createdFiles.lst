@@ -1,0 +1,5 @@
+pages\BasePage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
+pages\MainPage.class
